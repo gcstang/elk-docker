@@ -6,7 +6,19 @@ This Docker image provides a convenient centralised log server and log managemen
 
 The following tags are available:
 
-- `es231_l231_k450`, `latest`: Elasticsearch 2.3.1, Logstash 2.3.1, and Kibana 4.5.0.
+- `es240_l240_k460`, `latest`: Elasticsearch 2.4.0, Logstash 2.4.0, and Kibana 4.6.0.
+
+- `es235_l234_k454`: Elasticsearch 2.3.5, Logstash 2.3.4, and Kibana 4.5.4.
+
+- `es234_l234_k453`: Elasticsearch 2.3.4, Logstash 2.3.4, and Kibana 4.5.3.
+
+- `es234_l234_k452`: Elasticsearch 2.3.4, Logstash 2.3.4, and Kibana 4.5.2.
+
+- `es233_l232_k451`: Elasticsearch 2.3.3, Logstash 2.3.2, and Kibana 4.5.1.
+
+- `es232_l232_k450`: Elasticsearch 2.3.2, Logstash 2.3.2, and Kibana 4.5.0.
+
+- `es231_l231_k450`: Elasticsearch 2.3.1, Logstash 2.3.1, and Kibana 4.5.0.
  
 - `es230_l230_k450`: Elasticsearch 2.3.0, Logstash 2.3.0, and Kibana 4.5.0.
 
@@ -22,7 +34,7 @@ The following tags are available:
 
 ### Documentation
 
-See the [ELK Docker image documentation web page](http://elk-docker.readthedocs.org/) for complete instructions on how to use this image.
+See the [ELK Docker image documentation web page](http://elk-docker.readthedocs.io/) for complete instructions on how to use this image.
 
 ### Docker Hub
 
